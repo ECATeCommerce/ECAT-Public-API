@@ -8,7 +8,7 @@ ECAT Public API provides third-party companies with a secure and efficient inter
 
 ## Overview
 
-![ECAT eCommerce Overview](https://ec-at.com/wp-content/uploads/2024/11/ecatgif-2.gif)
+![ECAT eCommerce Overview](https://ec-at.com/wp-content/uploads/2024/11/ecatmini.png)
 
 The ECAT Public API enables real-time product data access, inventory synchronization, order processing, and dropshipping automation. This API is designed to be flexible, secure, and easy to integrate, allowing platforms to expand their capabilities and reach more customers.
 
